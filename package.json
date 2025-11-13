@@ -1,0 +1,23 @@
+{
+  "name": "beautiful-arts",
+  "version": "1.0.0",
+  "description": "Is this OK? (yes)",
+  "homepage": "https://github.com/Vickz72/Beautiful-Arts#readme",
+  "bugs": {
+    "url": "https://github.com/Vickz72/Beautiful-Arts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vickz72/Beautiful-Arts.git"
+  },
+  "license": "ISC",
+  "author": "Victor Cheruiyot",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
